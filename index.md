@@ -1,8 +1,8 @@
-#Ashish Pujari
-
-<img src="profile.jpg">
+# Ashish Pujari
 
 ## About Me
+
+<img src="profile.jpg">
 
 I am passionate about Machine Learning and AI. 
 
