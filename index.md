@@ -19,9 +19,17 @@ I am passionate about Machine Learning and AI. I am a data and analytics practit
 
 * Retail Assortment Optimization using Mixed Effects Models and Genetic Algorithms
 * Machine Learning for retail image recognition
-* Deep Learning for Yoga Pose identification 
-* UAV and drone detection using Convolutional Neural Networks
+* Deep Learning for Yoga Pose identification
+* Social Media Sentiment Analysis using Deep NLP 
+* UAV and drone detection using Deep Convolutional Neural Networks
 * BPML: A Process Modelling Language for Dynamic Business Models
+
+## Professional Experience
+
+* Large scale distributed retail pricing modeling using mixed effect models - PySpark/Julia/R 
+* Analytics web application product design and development for Retail, Banking, Insurance and Communications
+* Enterprise Data and Analytics Architecture - Data Lakes, Cloud Data Warehouses, Data Science Platforms 
+
 
 ## Courses Taught
 
@@ -30,4 +38,4 @@ I am passionate about Machine Learning and AI. I am a data and analytics practit
 
 ## Contact
 
-https://www.linkedin.com/in/apujari
+![Linked In]https://www.linkedin.com/in/apujari
