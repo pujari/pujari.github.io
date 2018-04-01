@@ -4,7 +4,7 @@
 
 <img src="profile.jpg">
 
-I am passionate about Machine Learning and AI. I am a data and analytics practitioner, consultant and teacher. 
+I am a data and analytics practitioner, consultant and teacher and am passionate about Machine Learning and AI. 
 
 * Built enterprise scale products and solutions that are elegant and scalable
 * Led and mentored global IT teams as well as university research projects. 
@@ -38,4 +38,4 @@ I am passionate about Machine Learning and AI. I am a data and analytics practit
 
 ## Contact
 
-![Linked In]https://www.linkedin.com/in/apujari
+[Linked In](https://www.linkedin.com/in/apujari)
