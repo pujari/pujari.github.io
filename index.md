@@ -23,6 +23,7 @@ I am a data and analytics practitioner, consultant and teacher and am passionate
 * Social Media Sentiment Analysis using Deep NLP 
 * UAV and drone detection using Deep Convolutional Neural Networks
 * BPML: A Process Modelling Language for Dynamic Business Models
+* Protein structure prediction using Genetic Algorithm
 
 ## Professional Experience
 
@@ -33,8 +34,9 @@ I am a data and analytics practitioner, consultant and teacher and am passionate
 
 ## Courses Taught
 
-* Deep Learning and Image Recognition
-* Database Design, Reporting and Visualization
+* University of Chicago MS Analytics - Deep Learning and Image Recognition
+* University of Chicago MS Analytics - Data Engineering for Analytics 
+* University of Chicago Online Analytics Certificate - Data Understanding and Reporting
 
 ## Contact
 
