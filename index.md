@@ -29,14 +29,20 @@ I am a data and analytics practitioner, consultant and teacher and am passionate
 
 * Large scale distributed retail pricing modeling using mixed effect models - PySpark/Julia/R 
 * Analytics web application product design and development for Retail, Banking, Insurance and Communications
-* Enterprise Data and Analytics Architecture - Data Lakes, Cloud Data Warehouses, Data Science Platforms 
+* Enterprise Data
+and Analytics Architecture - Data 
+  , Cloud Data Warehouses, Data Science Platforms 
 
 
 ## Courses Taught
 
-* University of Chicago MS Analytics - Deep Learning and Image Recognition
-* University of Chicago MS Analytics - Data Engineering for Analytics 
-* University of Chicago Online Analytics Certificate - Data Understanding and Reporting
+* University of Chicago MS Analytics 
+  - Deep Learning and Image Recognition
+  - Data Engineering for Analytics 
+  - Big Data Platforms
+ 
+* University of Chicago Online Analytics Certificate 
+ - Data Understanding and Reporting
 
 ## Contact
 
