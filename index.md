@@ -36,13 +36,13 @@ and Analytics Architecture - Data
 
 ## Courses Taught
 
-* University of Chicago MS Analytics 
+* MSc Analytics, University of Chicago 
   - Deep Learning and Image Recognition
   - Data Engineering for Analytics 
   - Big Data Platforms
  
-* University of Chicago Online Analytics Certificate 
- - Data Understanding and Reporting
+* Business Analytics Certificate, University of Chicago 
+  - Data Understanding and Reporting
 
 ## Contact
 
