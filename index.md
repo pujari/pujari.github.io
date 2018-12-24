@@ -29,10 +29,7 @@ I am a data and analytics practitioner, consultant and teacher and am passionate
 
 * Large scale distributed retail pricing modeling using mixed effect models - PySpark/Julia/R 
 * Analytics web application product design and development for Retail, Banking, Insurance and Communications
-* Enterprise Data
-and Analytics Architecture - Data 
-  , Cloud Data Warehouses, Data Science Platforms 
-
+* Enterprise Data and Analytics Architecture - Data, Cloud Data Warehouses, Data Science Platforms 
 
 ## Courses Taught
 
