@@ -36,12 +36,12 @@ and Analytics Architecture - Data
 
 ## Courses Taught
 
-* MSc Analytics, University of Chicago 
+* [MSc Analytics, University of Chicago](https://grahamschool.uchicago.edu/academic-programs/masters-degrees/analytics/instructors) 
   - Deep Learning and Image Recognition
   - Data Engineering for Analytics 
   - Big Data Platforms
  
-* Business Analytics Certificate, University of Chicago 
+* [Business Analytics Certificate, University of Chicago](https://grahamschool.uchicago.edu/news/ashish-pujari-importance-data-today)
   - Data Understanding and Reporting
 
 ## Contact
