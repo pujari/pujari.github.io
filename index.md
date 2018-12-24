@@ -2,13 +2,13 @@
 
 ## Ashish Pujari
 
-<img style="float: right;" src="profile.jpg">
-
 I am a data and analytics practitioner, consultant and teacher and am passionate about Machine Learning and AI. 
 
 * Built enterprise scale products and solutions that are elegant and scalable
 * Led and mentored global IT teams as well as university research projects. 
 * Full stack technology experience including but not limited to Machine Learning & AI, predictive modeling, business intelligence, visualization, big data and cloud computing, distributed and high performance computing, web application development, devops, workflow automation, capacity planning, tools evaluation, test automation, and security and identity management. 
+
+<img style="float: right;" src="profile.jpg">
 
 ## Education
 
