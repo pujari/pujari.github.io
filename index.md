@@ -17,11 +17,11 @@ I am a data and analytics practitioner, consultant and teacher and am passionate
 
 ## Research
 
+* UAV and drone detection using Deep Convolutional Neural Networks
+* [Deep Learning applied to Yoga pose identification](https://grahamschool.uchicago.edu/academic-programs/masters-degrees/analytics/yoga)
 * Retail Assortment Optimization using Mixed Effects Models and Genetic Algorithms
 * Machine Learning for retail image recognition
-* [Deep Learning applied to Yoga pose identification](https://grahamschool.uchicago.edu/academic-programs/masters-degrees/analytics/yoga)
 * Social Media Sentiment Analysis using Deep NLP 
-* UAV and drone detection using Deep Convolutional Neural Networks
 * BPML: A Process Modelling Language for Dynamic Business Models
 * Protein structure prediction using Genetic Algorithms
 
