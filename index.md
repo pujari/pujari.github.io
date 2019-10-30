@@ -2,7 +2,7 @@
 
 ## Ashish Pujari
 
-<img style="float: right;" src="profile.jpg">
+<img style="float: right;" src="profile.jpg" width="20%">
 
 I am a data and analytics practitioner, consultant and teacher and am passionate about Machine Learning and AI. 
 
