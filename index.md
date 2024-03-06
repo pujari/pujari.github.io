@@ -15,7 +15,7 @@ ML/AI practitioner, consultant and teacher.
 * MSc, Analytics, University of Chicago, Chicago, IL
 * BE, Electrical Engineering, National Institute of Technology, Rourkela, India
 
-## Research and Profesional Experience
+## Research and Professional Experience
 
 * UAV and drone detection using Deep Convolutional Neural Networks
 * [Deep Learning applied to Yoga pose identification](https://grahamschool.uchicago.edu/academic-programs/masters-degrees/analytics/yoga) | [Video](https://raw.githubusercontent.com/pujari/pujari.github.io/master/YogaPoseDetection.mp4)
