@@ -18,7 +18,7 @@ ML/AI practitioner, consultant and teacher.
 ## Research and Professional Experience
 
 * UAV and drone detection using Deep Convolutional Neural Networks
-* [Deep Learning applied to Yoga pose identification](https://grahamschool.uchicago.edu/academic-programs/masters-degrees/analytics/yoga) | [Video](https://raw.githubusercontent.com/pujari/pujari.github.io/master/YogaPoseDetection.mp4)
+* [Deep Learning applied to Yoga pose identification](https://grahamschool.uchicago.edu/academic-programs/masters-degrees/analytics/yoga)  
 * Retail Assortment Optimization using Genetic Algorithms
 * Automated knowledge mangagement using Large Language Models
 * Geospatial and satellite computer vision for power grids, floods and fire risk
